@@ -1,16 +1,16 @@
 # site settings
-title: Forty
+title: Sameer Thakuri
 subtitle: by HTML5 UP
 email: sameerthakuri912@icloud.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://sameer912.github.io/ # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: Bharoul-05, Barahkshetra
+city: Sunsari
+state: Province 1
+zip_code: 56703
+country: Nepal, Currently in Republic of Korea
 phone: (716) 555-5555
 
 # homepage tiles
@@ -22,9 +22,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Sameer912
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
   Twitter: https://twitter.com/andrewbanchich
